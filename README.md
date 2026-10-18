@@ -2,7 +2,7 @@
 
 **An independently designed and fabricated electromechanical flame-projection prototype.**
 
-<img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/assembly-overview.jpg" style="transform: rotate(90deg);" />
+<img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/assembly-overview.jpg" style="transform: rotate(180deg);" />
 
 
 ## Overview
