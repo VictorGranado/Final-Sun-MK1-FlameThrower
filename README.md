@@ -2,7 +2,8 @@
 
 **An independently designed and fabricated electromechanical flame-projection prototype.**
 
-![FINAL-SUN MK1 v1.0 prototype, showing the integrated mechanical assembly](assets/assembly-side.jpg)
+<img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/assembly-overview.jpg" style="transform: rotate(90deg);" />
+
 
 ## Overview
 
@@ -46,6 +47,9 @@ A rechargeable 12 V battery supplies the electrical hardware. The prototype incl
 
 The assembly uses custom-designed, 3D-printed supports and housings to locate the fuel, electrical, and control components around a metal outlet structure. The visible prototype also incorporates a handheld form factor and a mounted battery assembly.
 
+### Circuit diagram 
+![FINAL-SUN MK1 v1.0 circuit diagram](https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/assembly-overview.jpg)
+
 ### Thermal separation feature
 
 A **heat-resistant shield** was added between the nozzle assembly and the handle housing that contains the two control buttons. Its purpose is to create physical separation between a potential heat source and the operator-control area.
@@ -60,12 +64,12 @@ The project progressed through assembly and integration to an outdoor functional
 
 <table>
 <tr>
-<td align="center"><img src="assets/assembly-overview.jpg" alt="Overview of the prototype assembly" width="320"><br><sub>Overall assembly</sub></td>
-<td align="center"><img src="assets/controls-and-power.jpg" alt="Side view of the control housing and rechargeable power pack" width="320"><br><sub>Power and controls</sub></td>
+<td align="center"><img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/assembly-side.jpg" alt="Overview of the prototype assembly" width="320"><br><sub>Overall assembly</sub></td>
+<td align="center"><img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/controls-and-power.jpg" alt="Side view of the control housing and rechargeable power pack" width="320"><br><sub>Power and controls</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="assets/control-layout.jpg" alt="View of the switch, battery indicator, mounting structures, and handle assembly" width="320"><br><sub>Control layout and mounts</sub></td>
-<td align="center"><img src="assets/outdoor-demonstration.jpg" alt="Outdoor functional demonstration of FINAL-SUN MK1" width="320"><br><sub>Outdoor functional demonstration</sub></td>
+<td align="center"><img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/control-layout.jpg" alt="View of the switch, battery indicator, mounting structures, and handle assembly" width="320"><br><sub>Control layout and mounts</sub></td>
+<td align="center"><img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/outdoor-demonstration.jpg" alt="Outdoor functional demonstration of FINAL-SUN MK1" width="320"><br><sub>Outdoor functional demonstration</sub></td>
 </tr>
 </table>
 
