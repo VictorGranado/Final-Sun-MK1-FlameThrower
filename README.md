@@ -48,7 +48,7 @@ A rechargeable 12 V battery supplies the electrical hardware. The prototype incl
 The assembly uses custom-designed, 3D-printed supports and housings to locate the fuel, electrical, and control components around a metal outlet structure. The visible prototype also incorporates a handheld form factor and a mounted battery assembly.
 
 ### Circuit diagram 
-![FINAL-SUN MK1 v1.0 circuit diagram](https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/assembly-overview.jpg)
+![FINAL-SUN MK1 v1.0 circuit diagram](https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/04fcf7ace481276c8f0defafe9056188bd0e4b25/circuit_diagram.jpg)
 
 ### Thermal separation feature
 
