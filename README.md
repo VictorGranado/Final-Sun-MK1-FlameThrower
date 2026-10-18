@@ -69,7 +69,7 @@ The project progressed through assembly and integration to an outdoor functional
 </tr>
 <tr>
 <td align="center"><img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/control-layout.jpg" alt="View of the switch, battery indicator, mounting structures, and handle assembly" width="320"><br><sub>Control layout and mounts</sub></td>
-<td align="center"><img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/1804ca6f0a39216a19b6e7bcc4683a3014aee1da/outdoor-demonstration.jpg" alt="Outdoor functional demonstration of FINAL-SUN MK1" width="320"><br><sub>Outdoor functional demonstration</sub></td>
+<td align="center"><img src="https://github.com/VictorGranado/Final-Sun-MK1-FlameThrower/blob/c757ce04860c7ffda96f3f045689f91e6dd92cb6/WhatsApp%20Image%202026-10-18%20at%2013.16.48.jpeg" alt="Outdoor functional demonstration of FINAL-SUN MK1" width="320"><br><sub>Outdoor functional demonstration</sub></td>
 </tr>
 </table>
 
